@@ -5,7 +5,7 @@
 <style>
   .back {
     background: url("{{config.background_image}}") no-repeat center;
-    background-size: cover;
+    background-size: 75%;
   }
   .back h2 {
     font-family: "Lato", sans-serif;
@@ -13,9 +13,9 @@
   }
 </style>
 
-<div class="jumbotron jumbotron-fluid back" style="padding-bottom: 20px;">
+<div class="jumbotron jumbotron-fluid back" style="padding-top: 200px;">
   <div class="row header p-6 m-5">
-    <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
+    <div class="p-1 text-center text-white col-md-6 col-sm-9">
       <h2>
         {{config.tagline|safe}}
       </h2>
@@ -29,7 +29,6 @@
 
 {% block content %}
 
-{{ readme | markdown }}
 
 <!-- Organizers -->
 {{ components.section("Organizers") }}
