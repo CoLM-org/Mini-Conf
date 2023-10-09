@@ -7,22 +7,22 @@ committee:
   - role: General Chair
     name: Yejin Choi
     aff: University of Washington, AI2
-    im: /static/images/Yejin.jpg
+    im: static/images/Yejin.jpg
     tw: 
   - role: Program Chair
     name: Dipanjan Das
     aff: Google DeepMind
-    im: /static/images/Dipanjan.jpeg
+    im: static/images/Dipanjan.jpeg
     tw: 
   - role: Program Chair
     name: Yoav Artzi
     aff: Cornell Tech
-    im: /static/images/Yoav.jpg
+    im: static/images/Yoav.jpg
     tw: 
   - role: Program Chair
     name: Danqi Chen
     aff: Princeton
-    im: /static/images/danqi.jpg
+    im: static/images/danqi.jpg
     tw: 
   - role: Organizational Chair
     name: Alexander Rush
