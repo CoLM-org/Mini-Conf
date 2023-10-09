@@ -2,7 +2,7 @@ committee:
   - role: General Chair
     name: Denny Zhou
     aff: Google DeepMind
-    im: /static/images/Denny.jpg
+    im: static/images/Denny.jpg
     tw: 
   - role: General Chair
     name: Yejin Choi
