@@ -15,14 +15,19 @@ committee:
     im: static/images/Dipanjan.jpeg
     tw: 
   - role: Program Chair
+    name: Danqi Chen
+    aff: Princeton
+    im: static/images/danqi.jpg
+    tw: 
+  - role: Program Chair
     name: Yoav Artzi
     aff: Cornell Tech
     im: static/images/Yoav.jpg
     tw: 
   - role: Program Chair
-    name: Danqi Chen
-    aff: Princeton
-    im: static/images/danqi.jpg
+    name: Angela Fan
+    aff: Meta
+    im: static/images/angela.jpg
     tw: 
   - role: Organizational Chair
     name: Alexander Rush

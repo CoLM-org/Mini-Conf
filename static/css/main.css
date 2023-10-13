@@ -1,10 +1,14 @@
 body a {
   color: #2294e0;
+  background-color: aliceblue;
 }
 
 body a:hover {
   color: #2294e0;
   text-decoration: none;
+}
+
+.nav-bar {
 }
 
 h2,
@@ -19,7 +23,7 @@ label:text-muted,
 
 body {
   font-family: "Lato", sans-serif;
-  background-color: rgba(236, 241, 246, 1);
+  background-color: white;
 }
 
 .container a:hover {
@@ -42,10 +46,15 @@ body {
 #main-nav {
   padding-top: 10px;
   padding-bottom: 10px;
+  background: aliceblue !important;
 }
 
 .header {
   font: "Montserrat";
+}
+
+.content {
+  padding-top: 75px;
 }
 
 .pp-card {

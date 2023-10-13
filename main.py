@@ -202,6 +202,12 @@ def cfp():
     data["cfp"] = open("cfp.md").read()
     return render_template("cfp.html", **data)
 
+@app.route("/CoC.html")
+def coc():
+    data = _data()
+    data["CoC"] = open("CoC.md").read()
+    return render_template("CoC.html", **data)
+
 # FRONT END SERVING
 
 

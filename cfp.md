@@ -1,20 +1,14 @@
-We invite submissions to the 1st Conference on Language Modeling/Models
-🙂 (CoLM).
+We invite submissions to the 1st Conference on Language Modeling (COLM).
 
-**Key dates** **(**[Timeline Planning]{.underline}**)**
+**Key dates**
 
 The planned dates are as follow:
 
--   Abstract submission: Feb 2, 2024 (Anywhere on Earth)
+-   Abstract submission: March 8, 2024 (Anywhere on Earth)
 
--   Submission date: Feb 12, 2024 (Anywhere on Earth)
+-   Submission date: March 15, 2024 (Anywhere on Earth)
 
--   Supplementary material submission deadline: Feb 19, 2024 (Anywhere
-    > on Earth)
-
--   Reviews released: May
-
--   Author notifications: Jun 19, 2024
+-   Conference date: October, 2024
 
 **Call for papers:**
 
@@ -23,55 +17,39 @@ for the first iteration of CoLM. We consider the term "language model"
 in the broadest way. A non-exhaustive list of topics of interests
 includes:
 
-1.  All about **alignment**: fine-tuning, instruction-tuning,
-    > reinforcement learning (with human feedback), prompt tuning, and
-    > in-context alignment
+1.  All about **alignment**: fine-tuning, instruction-tuning, reinforcement learning (with human feedback), prompt tuning, and in-context alignment
 
-2.  All about **data**: pre-training data, alignment data, and synthetic
-    > data --- via manual or algorithmic analysis, curation, and
-    > generation
+2.  All about **data**: pre-training data, alignment data, and synthetic data --- via manual or algorithmic analysis, curation, and generation
 
-3.  All about **evaluation**: benchmarks, simulation environments,
-    > scalable oversight, evaluation protocols and metrics, human and/or
-    > machine evaluation
+3.  All about **evaluation**: benchmarks, simulation environments, scalable oversight, evaluation protocols and metrics, human and/or machine evaluation
 
-4.  All about **societal implications**: bias, equity, misuse, jobs,
-    > climate change, and beyond
+4.  All about **societal implications**: bias, equity, misuse, jobs, climate change, and beyond
 
-5.  All about **safety**: security, privacy, misinformation, adversarial
-    > attacks and defenses
+5.  All about **safety**: security, privacy, misinformation, adversarial attacks and defenses
 
-6.  **Science of LMs**: scaling laws, fundamental limitations, emergent
-    > capabilities, demystification, interpretability, complexity,
-    > training dynamics, grokking
+6.  **Science of LMs**: scaling laws, fundamental limitations, emergent capabilities, demystification, interpretability, complexity, training dynamics, grokking, learning theory for LMs
 
-7.  **Greener LMs**: distillation, compression, quantization, sample
-    > efficient methods, memory efficient methods
+7.  **Compute efficient LMs**: distillation, compression, quantization, sample efficient methods, memory efficient methods
 
-8.  **Learning algorithms** for LMs: learning, *un*learning,
-    > meta-learning, model mixing methods
+8.  **Engineering for large LMs**: distributed training and inference on different hardware setups, training dynamics, optimization instability
 
-9.  **Inference algorithms** for LMs: decoding algorithms, reasoning
-    > algorithms, search algorithms, planning algorithms
+9.  **Learning algorithms** for LMs: learning, *un*learning, meta learning, model mixing methods, continual learning
 
-10. **Human mind, brain, philosophy and LMs:** cognitive science,
-    > neuroscience, linguistics, psycholinguistics or philosophical
-    > perspectives on LMs
+10. **Inference algorithms** for LMs: decoding algorithms, reasoning algorithms, search algorithms, planning algorithms
 
-11. LMs for **everyone**: multi-linguality, low-resource languages,
-    > vernacular languages, multiculturalism, value pluralism
+11. **Human mind, brain, philosophy, laws and LMs:** cognitive science, neuroscience, linguistics, psycholinguistics, philosophical, or legal perspectives on LMs
 
-12. LMs and **the world**: factuality, retrieval-augmented LMs,
-    > knowledge models, commonsense reasoning, and world models
+12. LMs for **everyone**: multi-linguality, low-resource languages, vernacular languages, multiculturalism, value pluralism
 
-13. LMs and **interactions**: interactive learning, multi-agents
-    > learning, continual learning
+13. LMs and **the world**: factuality, retrieval-augmented LMs, knowledge models, commonsense reasoning, theory of mind, social norms, pragmatics, and world models
 
-14. LMs with **tools and code**: integration with tools and APIs,
-    > LM-driven software engineering
+14. LMs and **embodiment**: perception, action, robotics, and multimodality
 
-15. LMs on **diverse domains**: LMs on multimodal data, robotics, code,
-    > math, chemistry, medicine, education, and beyond
+15. LMs and **interactions**: conversation, interactive learning, and multi-agents learning
+
+16. LMs with **tools and code**: integration with tools and APIs, LM-driven software engineering
+
+17. LMs on **diverse modalities and novel applications**: visual LMs, code LMs, math LMs, and so forth, with extra encouragements for less studied modalities or applications such as chemistry, medicine, education, database and beyond
 
 **Review Process**
 
@@ -85,27 +63,28 @@ responses will not be public initially. Submissions under review will be
 visible only to their assigned program committee. We will not be
 soliciting comments from the general public during the reviewing
 process. Anyone who plans to submit a paper as an author or a co-author
-will need to create (or update) their OpenReview profile by the full
-paper submission deadline. The information entered in the profile is
-critical for ensuring that conflicts of interest are handled properly.\
-\
+will need to create (or update) their OpenReview profile by the abstract
+submission deadline. The information entered in the profile is critical
+for ensuring that conflicts of interest are handled properly.
+
 The program will include oral presentations and posters of accepted
 papers. Authors can revise their paper as many times as needed up to the
 paper submission deadline. Changes to the paper will not be allowed
 while the paper is being reviewed. During the discussion phase (between
 area chairs, reviewers and authors), edits will again be allowed; a
-[[pdfdiff]{.underline}](https://github.com/cascremers/pdfdiff) will be
+[pdfdiff](https://github.com/cascremers/pdfdiff) will be
 done against the submission at the paper submission deadline. Area
 chairs and reviewers reserve the right to ignore changes that are
-significant from the original scope of the paper.\
-\
-Accepted papers will be made public after decisions are made.
-Discussions between reviewers and program committee members and with the
-authors of accepted papers will be made public. Author lists of rejected
-papers will not be published.
+significant from the original scope of the paper.
 
-**Ethics review\
-**Reviewers and ACs may flag submissions for ethics review. Flagged
+Accepted papers and their reviews will be made public after decisions
+are made. Discussions between reviewers and program committee members
+and with the authors of accepted papers will be made public. Rejected
+papers, their discussions and meta data will not be published.
+
+**Ethics review**
+
+Reviewers and ACs may flag submissions for ethics review. Flagged
 submissions will be sent to an ethics review committee for comments.
 Comments from ethics reviewers will be considered by the primary
 reviewers and AC as part of their deliberation. They will also be
@@ -117,16 +96,16 @@ regardless of scientific quality or contribution.
 **Submission Instructions**
 
 Authors are asked to submit paper abstracts by the abstract submission
-deadline of **February 2, 2024**. Please note that no changes on the
+deadline of **March 8, 2024**. Please note that no changes on the
 authors and their orders can be made after the abstract submission
 deadline. Also please make sure that all authors have an OpenReview
 profile with the latest information. Abstracts submitted by the abstract
 submission deadline must be genuine, placeholder or duplicate abstracts
 will be removed.
 
-The full paper submission deadline is **February 12, 2024**. Abstracts
-and papers must be submitted using the conference submission system at:
-**\<URL\>**. The submission site will be open on **\<DATE\>**.
+The full paper submission deadline is **March 15, 2024**. Abstracts and
+papers must be submitted using the OpenReview conference submission
+system. The submission site will be open on **November 1**.
 
 **Paper length**
 
@@ -134,40 +113,30 @@ There will be a strict upper limit of 9 pages for the main text of the
 submission, with unlimited additional pages for citations. **This page
 limit applies to both the initial and final camera ready version.**
 
--   Authors may use as many pages of appendices (after the bibliography)
-    > as they wish, but reviewers are not required to read the appendix.
+-   Authors may use as many pages of appendices (after the bibliography) as they wish, but reviewers are not required to read the appendix.
 
--   *Authors can add an* *optional ethics statement to the paper; it
-    > will not count toward the page limit, but should not be more than
-    > 1 page.* (see Author
+-   *Authors can add an optional ethics statement to the paper; it will not count toward the page limit, but should not be more than 1 page.*
 
--   *Authors can add an optional* *reproducibility statement as well,
-    > which will not count toward the page limit, but should not be more
-    > than 1 page.*
+-   *Authors can add an optional reproducibility statement as well, which will not count toward the page limit, but should not be more than 1 page.*
 
--   *The optional acknowledgment will not count toward the page limit,
-    > but should not be more than 1 page.*
+-   *The optional acknowledgment will not count toward the page limit, but should not be more than 1 page.*
 
 **Style files and Templates**
 
 To prepare your submission to CoLM 2024, please use the LaTeX style
 files provided at:
 
-[[https://github.com/CoLM-org/Template/raw/master/CoLM2023.zip]{.underline}](https://github.com/CoLM-org/Template/raw/master/CoLM2023.zip)
+[https://github.com/CoLM-org/Template/raw/master/CoLM2024.zip](https://github.com/CoLM-org/Template/raw/master/CoLM2024.zip)
 
 Authors are strongly encouraged to participate in the public discussion
 of their paper, as well as of any other paper submitted to the
-conference. Submissions and reviews are both anonymous. For detailed
-instructions about the format of the paper, please visit **\<URL\>**
+conference. Submissions and reviews are both anonymous.
 
 **Code of Conduct**
 
-[[Code of
-Conduct]{.underline}](https://docs.google.com/document/d/1iIbwm2Rk1W767_Eua3CUKY7s7cBIOZwuOlHkAGayo9g/edit)
-
 All CoLM participants, including authors, are required to adhere to the
 CoLM code of conduct
-([[https://colmweb.org/CodeOfConduct]{.underline}](https://colmweb.org/CodeOfConduct)).
+([https://colmweb.org/CoC.html](https://colmweb.org/CoC.html)).
 More detailed guidance for authors, reviewers, and all other
 participants will be made available in due course, and participation
 will require acknowledging and adhering to the provided guidelines.
