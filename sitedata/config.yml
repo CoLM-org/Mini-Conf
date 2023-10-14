@@ -2,7 +2,7 @@ name: CoLM
 tagline: CONFERENCE ON <br> LANGUAGE <br> MODELING
 date: October 2024
 citation_date: May 2024
-proceedings_title: Proceedings of the First CoLM Conference
+proceedings_title: Proceedings of the First COLM Conference
 analytics: UA-
 logo:
   image: static/images/logo.jpg
@@ -11,10 +11,10 @@ logo:
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
 page_title:
-  prefix: 'CoLM 2024'
+  prefix: 'COLM 2024'
   separator: ': '
 background_image: static/images/llama.jpg
-organization: CoLM Organization Committee
+organization: COLM Organization Committee
 
 
 # Configuration for auth

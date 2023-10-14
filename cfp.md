@@ -1,6 +1,6 @@
 We invite submissions to the 1st Conference on Language Modeling (COLM).
 
-**Key dates**
+**Key Dates**
 
 The planned dates are as follow:
 
@@ -10,7 +10,7 @@ The planned dates are as follow:
 
 -   Conference date: October, 2024
 
-**Call for papers:**
+**Call for Papers:**
 
 We consider a broad range of subject areas focused on language modeling
 for the first iteration of CoLM. We consider the term "language model"
@@ -82,7 +82,7 @@ are made. Discussions between reviewers and program committee members
 and with the authors of accepted papers will be made public. Rejected
 papers, their discussions and meta data will not be published.
 
-**Ethics review**
+**Ethics Review**
 
 Reviewers and ACs may flag submissions for ethics review. Flagged
 submissions will be sent to an ethics review committee for comments.
@@ -105,9 +105,9 @@ will be removed.
 
 The full paper submission deadline is **March 15, 2024**. Abstracts and
 papers must be submitted using the OpenReview conference submission
-system. The submission site will be open on **November 1**.
+system. 
 
-**Paper length**
+**Paper Length**
 
 There will be a strict upper limit of 9 pages for the main text of the
 submission, with unlimited additional pages for citations. **This page
@@ -121,12 +121,12 @@ limit applies to both the initial and final camera ready version.**
 
 -   *The optional acknowledgment will not count toward the page limit, but should not be more than 1 page.*
 
-**Style files and Templates**
+**Style Files and Templates**
 
-To prepare your submission to CoLM 2024, please use the LaTeX style
+To prepare your submission to COLM 2024, please use the LaTeX style
 files provided at:
 
-[https://github.com/CoLM-org/Template/raw/master/CoLM2024.zip](https://github.com/CoLM-org/Template/raw/master/CoLM2024.zip)
+[https://github.com/COLM-org/Template/archive/refs/tags/2024.zip](https://github.com/COLM-org/Template/archive/refs/tags/2024.zip)
 
 Authors are strongly encouraged to participate in the public discussion
 of their paper, as well as of any other paper submitted to the
@@ -134,8 +134,8 @@ conference. Submissions and reviews are both anonymous.
 
 **Code of Conduct**
 
-All CoLM participants, including authors, are required to adhere to the
-CoLM code of conduct
+All COLM participants, including authors, are required to adhere to the
+COLM code of conduct
 ([https://colmweb.org/CoC.html](https://colmweb.org/CoC.html)).
 More detailed guidance for authors, reviewers, and all other
 participants will be made available in due course, and participation
