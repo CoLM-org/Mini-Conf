@@ -1,36 +1,43 @@
 committee:
   - role: General Chair
-    name: Denny Zhou
-    aff: Google DeepMind
-    im: static/images/Denny.jpg
-    tw: 
-  - role: General Chair
     name: Yejin Choi
     aff: University of Washington, AI2
     im: static/images/Yejin.jpg
     tw: 
+    ws: https://homes.cs.washington.edu/~yejin/
+  - role: General Chair
+    name: Denny Zhou
+    aff: Google DeepMind
+    im: static/images/Denny.jpg
+    tw: 
+    ws: https://dennyzhou.github.io/
   - role: Program Chair
     name: Dipanjan Das
     aff: Google DeepMind
     im: static/images/Dipanjan.jpeg
     tw: 
+    ws: https://www.dipanjandas.com/
   - role: Program Chair
     name: Danqi Chen
     aff: Princeton
     im: static/images/danqi.jpg
     tw: 
+    ws: https://www.cs.princeton.edu/~danqic/
   - role: Program Chair
     name: Yoav Artzi
     aff: Cornell Tech
     im: static/images/Yoav.jpg
     tw: 
+    ws: https://yoavartzi.com/
   - role: Program Chair
     name: Angela Fan
     aff: Meta
     im: static/images/angela.jpg
     tw: 
+    ws: https://ai.meta.com/people/angela-fan/
   - role: Organizational Chair
     name: Alexander Rush
     aff: Cornell Tech, Hugging Face
     im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
     tw: srush_nlp
+    ws: https://rush-nlp.com/
