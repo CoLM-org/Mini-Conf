@@ -59,9 +59,9 @@ def index():
     return redirect("/index.html")
 
 
-@app.route("/favicon.ico")
+@app.route("/favicon.svg")
 def favicon():
-    return send_from_directory(site_data_path, "favicon.ico")
+    return send_from_directory(site_data_path, "favicon.svg")
 
 
 # TOP LEVEL PAGES
