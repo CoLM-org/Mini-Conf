@@ -27,7 +27,7 @@ appearance, body size, race, ethnicity, religion (or lack thereof),
 politics, technology choices, or any other personal characteristics.
 Bullying, intimidation, personal attacks, harassment, sustained
 disruption of talks or other events, and behavior that interferes with
-another participant\'s full participation will not be tolerated. This
+another participant's full participation will not be tolerated. This
 includes sexual harassment, stalking, following, harassing photography
 or recording, inappropriate physical contact, unwelcome sexual
 attention, public vulgar exchanges, and diminutive characterizations,
@@ -65,14 +65,14 @@ expulsion from the conference (either physical expulsion, or termination
 of access codes) with no refund, barring from participation in future
 conferences or their organization, reporting the incident to the
 offender's local institution or funding agencies, or reporting the
-incident to local law enforcement. A response of \"just joking\" will
+incident to local law enforcement. A response of "just joking" will
 not be accepted; behavior can be harassing without an intent to offend.
 If action is taken, an appeals process will be made available.
 
 #### **Reporting**
 
 If you have concerns related to your inclusion at that conference, or
-observe someone else\'s difficulties, or have any other concerns related
+observe someone else's difficulties, or have any other concerns related
 to inclusion, please email the COLM PCs . For online events and tools,
 there are options to directly report specific chat/text comments, in
 addition to the above reporting. Complaints and violations will be
