@@ -16,9 +16,9 @@ committee:
     tw: 
   - role: Program Chair
     name: Yoav Artzi
-    aff: Cornell Tech
+    aff: Cornell Tech, ASAPP
     im: static/images/Yoav.jpg
-    tw: 
+    tw: yoavartzi
   - role: Program Chair
     name: Danqi Chen
     aff: Princeton
