@@ -8,7 +8,7 @@ committee:
     name: Yejin Choi
     aff: University of Washington, AI2
     im: static/images/Yejin.jpg
-    tw: 
+    tw: YejinChoinka
   - role: Program Chair
     name: Dipanjan Das
     aff: Google DeepMind
@@ -23,7 +23,7 @@ committee:
     name: Danqi Chen
     aff: Princeton
     im: static/images/danqi.jpg
-    tw: 
+    tw: danqi_chen
   - role: Organizational Chair
     name: Alexander Rush
     aff: Cornell Tech, Hugging Face
