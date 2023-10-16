@@ -202,11 +202,15 @@ def cfp():
     data["cfp"] = open("cfp.md").read()
     return render_template("cfp.html", **data)
 
-@app.route("/CoC.html")
-def coc():
+@app.route("/survey.html")
+def survey():
     data = _data()
-    data["CoC"] = open("CoC.md").read()
-    return render_template("CoC.html", **data)
+    return render_template("survey.html", **data)
+
+@app.route("/faq.html")
+def faq():
+    data = _data()
+    return render_template("faq.html", **data)
 
 # FRONT END SERVING
 
