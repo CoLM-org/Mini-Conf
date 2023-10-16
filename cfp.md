@@ -13,7 +13,7 @@ The planned dates are as follow:
 **Call for Papers:**
 
 We consider a broad range of subject areas focused on language modeling
-for the first iteration of CoLM. We consider the term "language model"
+for the first iteration of COLM. We consider the term "language model"
 in the broadest way. A non-exhaustive list of topics of interests
 includes:
 

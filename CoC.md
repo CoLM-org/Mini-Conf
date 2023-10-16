@@ -1,10 +1,10 @@
 COLM utilizes the ICLR Code of Conduct, restated here.
 
-#### **Who** 
+#### **Why** 
 
 The open exchange of ideas, the freedom of thought and expression, and
 respectful scientific debate are central to the goals of this conference
-on machine learning; this requires a community and an environment that
+on language modeling; this requires a community and an environment that
 recognizes and respects the inherent worth of every person.
 
 #### **Who** 

@@ -3,8 +3,7 @@ committee:
     name: Yejin Choi
     aff: University of Washington, AI2
     im: static/images/Yejin.jpg
-    tw: 
-    ws: https://homes.cs.washington.edu/~yejin/
+    tw: YejinChoinka
   - role: General Chair
     name: Denny Zhou
     aff: Google DeepMind
@@ -21,13 +20,13 @@ committee:
     name: Danqi Chen
     aff: Princeton
     im: static/images/danqi.jpg
-    tw: 
+    tw: danqi_chen
     ws: https://www.cs.princeton.edu/~danqic/
   - role: Program Chair
     name: Yoav Artzi
-    aff: Cornell Tech
+    aff: Cornell Tech, ASAPP
     im: static/images/Yoav.jpg
-    tw: 
+    tw: yoavartzi
     ws: https://yoavartzi.com/
   - role: Program Chair
     name: Angela Fan
