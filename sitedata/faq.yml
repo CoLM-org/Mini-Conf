@@ -5,5 +5,15 @@ FAQ:
         Answer: "COLM will be run on OpenReview and will open sometime before the beginning of the year."
       - Question: What is the COLM preprint policy?
         Answer: "COLM plans use a policy adapted from ML conference such as NeurIPS: 'Non-anonymous preprints (on arXiv, social media, websites, etc.) are permitted, though preprints in the style must use the new “preprint” option, rather than the “final” option. Reviewers will be instructed not to actively look for such preprints, but encountering them will not constitute a conflict of interest. Authors may submit work to COLM that is already available as a preprint (e.g., on arXiv) without citing it; however, previously published papers by the authors on related topics must be cited (with adequate anonymization to preserve double-blind reviewing; see below)."
+  - Section: Sponsorship
+    QA:
+      - Question: How can I help sponsor the conference?
+        Answer: "We are actively looking for sponsors for the event. Please contact arush@cornell.edu if you are interested."
+  - Section: Conference Structure
+    QA:
       - Question: What will the conference structure be like? 
         Answer: "We are still working out the details of the conference venue and structure. We plan to have physical conference with posters and orals for accepted papers."
+  - Section: Other
+    QA:
+      - Question: Why the Llama?
+        Answer: "It's kind of cute... in an ugly way."
