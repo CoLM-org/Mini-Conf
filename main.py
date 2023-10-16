@@ -82,29 +82,29 @@ def about():
     return render_template("help.html", **data)
 
 
-@app.route("/papers.html")
-def papers():
-    data = _data()
-    data["papers"] = site_data["papers"]
-    return render_template("papers.html", **data)
+# @app.route("/papers.html")
+# def papers():
+#     data = _data()
+#     data["papers"] = site_data["papers"]
+#     return render_template("papers.html", **data)
 
 
-@app.route("/paper_vis.html")
-def paper_vis():
-    data = _data()
-    return render_template("papers_vis.html", **data)
+# @app.route("/paper_vis.html")
+# def paper_vis():
+#     data = _data()
+#     return render_template("papers_vis.html", **data)
 
 
-@app.route("/calendar.html")
-def schedule():
-    data = _data()
-    data["day"] = {
-        "speakers": site_data["speakers"],
-        "highlighted": [
-            format_paper(by_uid["papers"][h["UID"]]) for h in site_data["highlighted"]
-        ],
-    }
-    return render_template("schedule.html", **data)
+# @app.route("/calendar.html")
+# def schedule():
+#     data = _data()
+#     data["day"] = {
+#         "speakers": site_data["speakers"],
+#         "highlighted": [
+#             format_paper(by_uid["papers"][h["UID"]]) for h in site_data["highlighted"]
+#         ],
+#     }
+#     return render_template("schedule.html", **data)
 
 
 @app.route("/workshops.html")
