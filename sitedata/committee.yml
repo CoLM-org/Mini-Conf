@@ -4,11 +4,12 @@ committee:
     aff: University of Washington, AI2
     im: static/images/Yejin.jpg
     tw: YejinChoinka
+    ws: https://homes.cs.washington.edu/~yejin/
   - role: General Chair
     name: Denny Zhou
     aff: Google DeepMind
     im: static/images/Denny.jpg
-    tw: 
+    tw: denny_zhou
     ws: https://dennyzhou.github.io/
   - role: Program Chair
     name: Dipanjan Das
