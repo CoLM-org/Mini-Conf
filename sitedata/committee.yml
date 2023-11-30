@@ -41,3 +41,21 @@ committee:
     im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
     tw: srush_nlp
     ws: https://rush-nlp.com/
+  - role: DEI Chair
+    name: Alice Oh
+    aff: KAIST
+    im: https://aliceoh9.github.io/assets/IMG_7384.jpg
+    tw: aliceoh
+    ws: https://aliceoh9.github.io/
+  - role: DEI Chair
+    name: Monojit Choudhury
+    aff: Microsoft Turing
+    im: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/avatar_user_32996_1505190495-180x180.jpg
+    tw: monojitchou
+    ws: https://www.microsoft.com/en-us/research/people/monojitc/
+  - role: Local Chair
+    name: Mark Yatskar
+    aff: Penn
+    im: https://www.cis.upenn.edu/~myatskar/headshot_close.png
+    tw: yatskar
+    ws: https://www.cis.upenn.edu/~myatskar/
