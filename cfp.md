@@ -4,11 +4,11 @@ We invite submissions to the 1st Conference on Language Modeling (COLM).
 
 The planned dates are as follow:
 
--   Abstract submission: March 8, 2024 (Anywhere on Earth)
+-   Abstract submission: March 22, 2024 (Anywhere on Earth)
 
--   Submission date: March 15, 2024 (Anywhere on Earth)
+-   Submission date: March 29, 2024 (Anywhere on Earth)
 
--   Conference date: October, 2024
+-   Conference date: October 7-9, 2024
 
 **Call for Papers:**
 
@@ -96,14 +96,14 @@ regardless of scientific quality or contribution.
 **Submission Instructions**
 
 Authors are asked to submit paper abstracts by the abstract submission
-deadline of **March 8, 2024**. Please note that no changes on the
+deadline of **March 22, 2024**. Please note that no changes on the
 authors and their orders can be made after the abstract submission
 deadline. Also please make sure that all authors have an OpenReview
 profile with the latest information. Abstracts submitted by the abstract
 submission deadline must be genuine, placeholder or duplicate abstracts
 will be removed.
 
-The full paper submission deadline is **March 15, 2024**. Abstracts and
+The full paper submission deadline is **March 29, 2024**. Abstracts and
 papers must be submitted using the OpenReview conference submission
 system. 
 
