@@ -5,7 +5,7 @@
 <style>
   .back {
     background: url("{{config.background_image}}") no-repeat center;
-    background-size: 100%;
+    background-size: 1000px;
   }
   .back h2 {
     font-family: "Lato", sans-serif;
@@ -13,14 +13,16 @@
   }
 </style>
 
-<div class="container back" style="padding-bottom: 200px; padding-top: 200px;">
+<div class="container back" style="padding-bottom: 100px; padding-top: 150px;">
   <div class="row header">
-    <div class="p-1 text-center text-white col-md-6 col-sm-12">
+    <div style="-webkit-text-stroke: 1px black;" class="p-1 text-center text-white col-md-12 col-sm-12">
       <h2>
         {{config.tagline|safe}}
       </h2>
-      <h2 class="p-5">
-        {{config.date|safe}}
+      <h2 class="p-5" style="-webkit-text-stroke: 1px black;">
+        University of Pennsylvania<br>
+        Philadelphia, PA <br>
+        October 7-9, 2024
       </h2>
     </div>
   </div>
@@ -35,9 +37,32 @@ The leap in general-purpose capabilities from language models is a landmark in t
 If you are interested in this goal, see our <a href="cfp.html">Call for Papers</a>.
 </div>
 
+{{ components.section("Venue") }}
 
+<div class="h5" style="line-height: 1.5; padding-bottom: 50px;">
+COLM will take place at the Zellerbach theater in the Annenberg Center for the Performing Arts at the University of Pennsylvania. 
+The conference will be a  three-day single-track event with a mix of invited talks, orals paper presentations, and poster sessions.
+Details for hotels and registration will be available soon.
+</div>
+
+
+<div class="row justify-content-md-center">
+
+<div class="col-md-6 col-sm-12">
+<img width="100%" src="static/images/venue.png">
+</div>
+</div>
 <!-- Organizers -->
 {{ components.section("Organizers") }}
 {{ components.organizergroup(committee) }}
+
+
+{{ components.section("Sponsorship") }}
+
+<div class="h5" style="line-height: 1.5; padding-bottom: 50px;">
+  If you are interested in sponsoring COLM, please reach out to 
+  the <a href="mailto:srush.research@gmail.com">COLM Organizational Chair</a>.
+</div>
+  
 
 {% endblock %}
