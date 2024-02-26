@@ -8,6 +8,8 @@ The planned dates are as follow:
 
 -   Submission date: March 29, 2024  (Anywhere on Earth)
 
+-   Notification of acceptance: July 9, 2024
+
 -   Conference date: October 7-9, 2024
 
 **Call for Papers:**
