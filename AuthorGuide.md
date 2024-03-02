@@ -8,7 +8,7 @@ For detailed submission instructions, including paper length and style file, ple
 
 **Appendices and Supplementary (text) submission:** We encourage authors to submit a single file (paper + appendices + supplementary text).  Please mark the supplementary material clearly.
 
-**Note** All authors are required to have an OpenReview profile. Please make sure that all of the authors create an OpenReview profile.
+**Note:** All authors are required to have an OpenReview profile. Please make sure that all of the authors create an OpenReview profile.
 
 #### Code of Ethics and Ethics statement
 
