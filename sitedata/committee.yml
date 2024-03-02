@@ -44,7 +44,7 @@ committee:
   - role: DEI Chair
     name: Alice Oh
     aff: KAIST
-    im: https://aliceoh9.github.io/assets/IMG_7384.jpg
+    im: static/images/alice.jpg
     tw: aliceoh
     ws: https://aliceoh9.github.io/
   - role: DEI Chair
@@ -56,6 +56,6 @@ committee:
   - role: Local Chair
     name: Mark Yatskar
     aff: Penn
-    im: https://www.cis.upenn.edu/~myatskar/headshot_close.png
+    im: static/images/mark.png
     tw: yatskar
     ws: https://www.cis.upenn.edu/~myatskar/
