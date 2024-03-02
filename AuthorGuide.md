@@ -26,6 +26,6 @@ It is important that the work published in COLM is reproducible. We encourage au
 
 #### Reviewing Process
 
-COLM's timeline is detailed in the [call for papers](/cfp.html). The public cannot see or observe papers that are under review at COLM.  
+COLM's timeline is detailed in the [key dates page](/dates.html) and the [call for papers](/cfp.html). The public cannot see or observe papers that are under review at COLM. 
 Authors can post "official comments" about their paper once the discussion stage begins, and restrict visibility to reviewers, area chairs, or program chairs as appropriate. 
 
