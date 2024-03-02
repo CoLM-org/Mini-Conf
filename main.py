@@ -208,6 +208,12 @@ def coe():
     data["CoE"] = open("CoE.md").read()
     return render_template("CoE.html", **data)
 
+@app.route("/AuthorGuide.html")
+def authorguide():
+    data = _data()
+    data["AuthorGuide"] = open("AuthorGuide.md").read()
+    return render_template("AuthorGuide.html", **data)
+
 
 @app.route("/CoC.html")
 def coc():
