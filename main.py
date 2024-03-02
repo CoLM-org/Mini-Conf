@@ -202,6 +202,13 @@ def cfp():
     data["cfp"] = open("cfp.md").read()
     return render_template("cfp.html", **data)
 
+@app.route("/dates.html")
+def dates():
+    data = _data()
+    data["dates"] = open("dates.md").read()
+    return render_template("dates.html", **data)
+
+
 @app.route("/CoE.html")
 def coe():
     data = _data()
