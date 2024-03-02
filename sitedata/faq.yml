@@ -2,7 +2,7 @@ FAQ:
   - Section: Submission Structure
     QA:
       - Question: When is the COLM submission open?
-        Answer: "COLM will be run on OpenReview. Submissions will open in the beginning of next year."
+        Answer: "COLM uses OpenReview for submissions. The submission link is open at <a href='https://openreview.net/group?id=colmweb.org/COLM/2024/Conference'>https://openreview.net/group?id=colmweb.org/COLM/2024/Conference</a>."
       - Question: What is the COLM preprint policy?
         Answer: "COLM will use the following policy, adapted from NeurIPS: 'Non-anonymous preprints (on arXiv, social media, websites, etc.) are permitted, though preprints in the style must use the new “preprint” option, rather than the “final” option. Reviewers will be instructed not to actively look for such preprints, but encountering them will not constitute a conflict of interest. Authors may submit work to COLM that is already available as a preprint (e.g., on arXiv) without citing it; however, previously published papers by the authors on related topics must be cited (with adequate anonymization to preserve double-blind reviewing; see below)."
       - Question: Will COLM have a short paper track?
@@ -24,6 +24,6 @@ FAQ:
   - Section: Other
     QA:
       - Question: How do you pronounce COLM?
-        Answer: "It is pronounced like 'Collum' based on the Irish name Colm (https://en.wikipedia.org/wiki/Colm). It means dove 🕊️."
+        Answer: "It is pronounced like 'Collum' based on the Irish name Colm (<a href='https://en.wikipedia.org/wiki/Colm'>https://en.wikipedia.org/wiki/Colm</a>). It means dove 🕊️."
       - Question: Why the Llama?
         Answer: "It's kind of cute... in an ugly way."
