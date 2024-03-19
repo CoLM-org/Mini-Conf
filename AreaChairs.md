@@ -4,6 +4,17 @@
   }
 </style>
 
+<br />
+
+<h4>Ethics Area Chairs</h4>
+
+<table>
+<tr><td>Mohit Iyyer</td>  <td></td>  <td>Siva Reddy</td></tr>
+</table>
+
+<br />
+
+<h4>Program Area Chairs</h4>
 
 <table>
 <tr><td>Adam Tauman Kalai</td>  <td></td>  <td>Luke Zettlemoyer</td>  <td>Ellie Pavlick</td>  <td></td>  <td>Sebastian Gehrmann</td></tr>
