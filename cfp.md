@@ -89,13 +89,7 @@ regardless of scientific quality or contribution.
 
 **Submission Instructions**
 
-Authors are asked to submit paper abstracts by the abstract submission
-deadline of **March 22, 2024**. Please note that no changes on the
-authors and their orders can be made after the abstract submission
-deadline. Also please make sure that all authors have an OpenReview
-profile with the latest information. Abstracts submitted by the abstract
-submission deadline must be genuine, placeholder or duplicate abstracts
-will be removed.
+Authors are asked to submit paper abstracts by the abstract submission deadline of **March 22, 2024**. Please make sure that all authors have an OpenReview profile with the latest information. Authors will not be able to add/remove authors after the abstract deadline. Abstracts submitted by the abstract submission deadline must be genuine, placeholder or duplicate abstracts will be removed. Please do not meaningfully change your abstract and title after the abstract deadline. Such changes will likely lead to sub-optimal assignment of AC and reviewers to your paper, hurting the quality of reviewing your paper will receive.
 
 The full paper submission deadline is **March 29, 2024**. Abstracts and
 papers must be submitted using the OpenReview conference submission
