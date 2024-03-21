@@ -1,10 +1,14 @@
 We invite submissions to the 1st Conference on Language Modeling (COLM).
 
-All **key dates** are listed in the [dates page](/dates.html).
+<hr />
 
-**The OpenReview submission link is**: [https://openreview.net/group?id=colmweb.org/COLM/2024/Conference](https://openreview.net/group?id=colmweb.org/COLM/2024/Conference).
+**Key dates** are listed in the [dates page](/dates.html).
 
-**Call for Papers:**
+**Submission link**: [https://openreview.net/group?id=colmweb.org/COLM/2024/Conference](https://openreview.net/group?id=colmweb.org/COLM/2024/Conference).
+
+**Questions can be directed to:** [colm-pcs@googlegroups.com](mailto:colm-pcs@googlegroups.com)
+
+<hr />
 
 We consider a broad range of subject areas focused on language modeling
 for the first iteration of COLM. We consider the term "language model"
