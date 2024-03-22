@@ -1,6 +1,6 @@
 
 
-**All deadlines are AoE (anywhere on earth)**
+**All deadlines are 23:59 AoE (anywhere on earth)**
 
 
 - [Submission link](https://openreview.net/group?id=colmweb.org/COLM/2024/Conference) open: March 4, 2024
