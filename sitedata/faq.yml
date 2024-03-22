@@ -1,6 +1,8 @@
 FAQ:
   - Section: Submission Structure
     QA:
+      - Question: Can I submit my paper to COLM when it is under review for ARR?
+        Answer: "We are sorry, but COLM does not allow double submissions. All papers under the ARR process, regardless of stage, are considered as under submission to ARR, and cannot be submitted to COLM."
       - Question: When is the COLM submission open?
         Answer: "COLM uses OpenReview for submissions. The submission link is open at <a href='https://openreview.net/group?id=colmweb.org/COLM/2024/Conference'>https://openreview.net/group?id=colmweb.org/COLM/2024/Conference</a>."
       - Question: What is the COLM preprint policy?
