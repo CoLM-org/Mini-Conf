@@ -68,12 +68,7 @@ for ensuring that conflicts of interest are handled properly.
 The program will include oral presentations and posters of accepted
 papers. Authors can revise their paper as many times as needed up to the
 paper submission deadline. Changes to the paper will not be allowed
-while the paper is being reviewed. During the discussion phase (between
-area chairs, reviewers and authors), edits will again be allowed; a
-[pdfdiff](https://github.com/cascremers/pdfdiff) will be
-done against the submission at the paper submission deadline. Area
-chairs and reviewers reserve the right to ignore changes that are
-significant from the original scope of the paper.
+while the paper is being reviewed. 
 
 Accepted papers and their reviews will be made public after decisions
 are made. Discussions between reviewers and program committee members

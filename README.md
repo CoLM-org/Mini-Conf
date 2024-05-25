@@ -15,3 +15,4 @@ To build the website run
 To deploy the website, first clone the main repo and then run:
 
 > cp -fr build/ ../colm-org.github.io
+w
