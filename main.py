@@ -215,6 +215,12 @@ def coe():
     data["CoE"] = open("CoE.md").read()
     return render_template("CoE.html", **data)
 
+@app.route("/sponsors.html")
+def sponsors():
+    data = _data()
+    data["sponsors"] = site_data["sponsors"]["sponsors"]
+    return render_template("sponsors.html", **data)
+
 @app.route("/ReviewGuide.html")
 def reviewguide():
     data = _data()

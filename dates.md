@@ -11,4 +11,5 @@
 - Discussion period: May 24 to June 6, 2024
 - Author response deadline (discussion continues): May 30, 2024
 - Notification of acceptance: July 9, 2024
+- First round of Tickets open: July 15, 2024
 - Conference dates: October 7-9, 2024

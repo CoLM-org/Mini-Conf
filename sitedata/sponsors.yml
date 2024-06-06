@@ -1,0 +1,73 @@
+sponsors:
+- tier: Diamond
+  size: 4
+  height: 250
+  vals:
+    - name: Google DeepMind
+      img_url: 
+      url: 
+      img_src: static/images/googledeepmind.svg
+    - name: University of Washington
+      img_url: 
+      url: 
+      img_src: static/images/uw.jpg
+      size: 200px
+    - name: University of Pennsylvania
+      img_url: 
+      url: https://www.seas.upenn.edu/
+      img_src: static/images/upenn.png
+    - name: AI2
+      img_url: 
+      url: https://allenai.org/
+      img_src: static/images/AI2.png
+      size: 150px
+- tier: Gold
+  size: 3
+  height: 150
+  vals:
+    - name: Bloomberg
+      img_url: 
+      url: https://www.bloomberg.com/company/
+      img_src: static/images/bloomberg.svg
+      size: 250px
+    - name: Megagon Labs
+      img_url: 
+      url: 
+      img_src: static/images/megagon.png
+      size: 150px
+    - name: Merlyn Mind
+      img_url: 
+      url: https://www.merlyn.org/
+      img_src: static/images/merlyn.jpeg
+      size: 300px
+    - name: Kensho
+      img_url: 
+      url: https://kensho.com/
+      img_src: static/images/kensho.png
+      size: 250px
+- tier: Silver
+  size: 3
+  height: 150
+  vals:
+    - name: Samaya AI
+      img_url: 
+      img_src: static/images/samaya.webp
+      url: https://samaya.ai/
+      size: 250px
+- tier: Bronze 
+  size: 3
+  height: 150
+  vals:
+    - name: General Catalyst
+      url: https://www.generalcatalyst.com/
+      img_src: static/images/gc.png
+      size: 80%
+    - name: Cohere
+      size: 
+      url: https://cohere.com/
+      img_src: static/images/cohere.svg 
+    - name: Amplify
+      size: 
+      url: https://www.amplifypartners.com/
+      img_src: static/images/amplify.webp 
+      size: 80%
