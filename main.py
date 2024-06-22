@@ -246,6 +246,13 @@ def coc():
     data["CoC"] = open("CoC.md").read()
     return render_template("CoC.html", **data)
 
+@app.route("/Keynotes.html")
+def keynotes():
+    data = _data()
+    print(site_data["speakers"])
+    data["Keynotes"] = site_data["speakers"]
+    return render_template("Keynotes.html", **data)
+
 @app.route("/survey.html")
 def survey():
     data = _data()
