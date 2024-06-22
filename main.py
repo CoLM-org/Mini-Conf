@@ -249,7 +249,6 @@ def coc():
 @app.route("/Keynotes.html")
 def keynotes():
     data = _data()
-    print(site_data["speakers"])
     data["Keynotes"] = site_data["speakers"]
     return render_template("Keynotes.html", **data)
 
