@@ -97,8 +97,7 @@ system.
 **Paper Length**
 
 There will be a strict upper limit of 9 pages for the main text of the
-submission, with unlimited additional pages for citations. **This page
-limit applies to both the initial and final camera ready version.**
+submission, with unlimited additional pages for citations. 
 
 -   Authors may use as many pages of appendices (after the bibliography) as they wish, but reviewers are not required to read the appendix.
 
