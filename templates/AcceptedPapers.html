@@ -1,0 +1,19 @@
+{% set active_page = "AcceptedPapers" %}
+{% set page_title = "Accepted Papers" %}
+{% extends "base.html" %}
+
+{% block content %}
+
+
+
+<h2>
+    Accepted Papers
+</h2>
+
+{% for paper in AcceptedPapers %}
+<p>{{paper.title}} <br/> <em>{{paper.authors}}</em></p>
+ 
+{% endfor %}
+
+
+{% endblock %}

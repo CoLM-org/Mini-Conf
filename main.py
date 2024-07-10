@@ -252,6 +252,13 @@ def keynotes():
     data["Keynotes"] = site_data["speakers"]
     return render_template("Keynotes.html", **data)
 
+@app.route("/AcceeptedPapers.html")
+def accepted_papers():
+    data = _data()
+    data["AcceptedPapers"] = site_data["accepted_papers"]
+    return render_template("AcceptedPapers.html", **data)
+
+
 @app.route("/survey.html")
 def survey():
     data = _data()
