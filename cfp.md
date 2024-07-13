@@ -112,7 +112,7 @@ submission, with unlimited additional pages for citations.
 To prepare your submission to COLM 2024, please use the LaTeX style
 files provided at:
 
-[https://github.com/COLM-org/Template/archive/refs/tags/2024.zip](https://github.com/COLM-org/Template/archive/refs/tags/2024.zip)
+[https://github.com/COLM-org/Template/archive/refs/tags/2024.zip](https://github.com/COLM-org/Template/archive/refs/tags/2024.v4.zip)
 
 Authors are strongly encouraged to participate in the public discussion
 of their paper, as well as of any other paper submitted to the
