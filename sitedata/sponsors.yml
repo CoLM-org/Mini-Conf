@@ -25,6 +25,11 @@ sponsors:
   size: 3
   height: 150
   vals:
+    - name: Cisco
+      img_url: 
+      url: https://www.cisco.com/site/us/en/solutions/artificial-intelligence/index.html
+      img_src: static/images/cisco.svg
+      size: 200px
     - name: Bloomberg
       img_url: 
       url: https://www.bloomberg.com/company/
@@ -35,23 +40,29 @@ sponsors:
       url: 
       img_src: static/images/megagon.png
       size: 150px
-    - name: Merlyn Mind
+    - name: Emergence
       img_url: 
       url: https://www.merlyn.org/
-      img_src: static/images/merlyn.jpeg
+      img_src: static/images/emergence.svg
       size: 300px
     - name: Kensho
       img_url: 
       url: https://kensho.com/
       img_src: static/images/kensho.png
       size: 250px
+    - name: DE Shaw
+      img_url: 
+      url: https://www.deshaw.com/
+      img_src: static/images/DESCO.svg
+      size: 250px
+
 - tier: Silver
   size: 3
   height: 150
   vals:
     - name: Samaya AI
       img_url: 
-      img_src: static/images/samaya.webp
+      img_src: static/images/samaya.svg
       url: https://samaya.ai/
       size: 250px
 - tier: Bronze 
