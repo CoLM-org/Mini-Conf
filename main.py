@@ -16,7 +16,7 @@ by_uid = {}
 
 def main(site_data_path):
     global site_data, extra_files
-    extra_files = ["README.md", "cfp.md"]
+    extra_files = ["README.md", "cfp.md", "program-overview.md"]
     # Load all for your sitedata one time.
     for f in glob.glob(site_data_path + "/*"):
         extra_files.append(f)
@@ -201,6 +201,12 @@ def cfp():
     data = _data()
     data["cfp"] = open("cfp.md").read()
     return render_template("cfp.html", **data)
+
+@app.route("/program-overview.html")
+def program_overview():
+    data = _data()
+    data["program_overview"] = open("program-overview.md").read()
+    return render_template("program-overview.html", **data)
 
 @app.route("/dates.html")
 def dates():
