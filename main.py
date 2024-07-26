@@ -258,6 +258,12 @@ def keynotes():
     data["Keynotes"] = site_data["speakers"]
     return render_template("Keynotes.html", **data)
 
+@app.route("/SpecialSessions.html")
+def special_sessions():
+    data = _data()
+    data["special_sessions"] = site_data["special-sessions"]
+    return render_template("SpecialSessions.html", **data)
+
 @app.route("/AcceptedPapers.html")
 def accepted_papers():
     data = _data()

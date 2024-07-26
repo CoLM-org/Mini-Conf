@@ -1,0 +1,51 @@
+- name: Multilinguality and LLMs
+  description: 
+  mod: Alice Oh
+  mod_inst: KAIST
+  mod_url: https://aliceoh9.github.io/
+  mod_photo: static/images/alice.jpg
+  mod_bio:
+  participants:
+    - name: Sunipa Dev 
+      institute: Google DeepMind
+      url: https://sunipa.github.io/
+      photo: /static/images/speakers/sunipa-dev.jpg
+      bio:
+    - name: Hwaran Lee
+      institute: NAVER
+      url: https://hwaranlee.github.io/
+      photo: /static/images/speakers/hwaran-lee.jpg
+      bio:
+    - name: Sampo Pyysalo
+      institute: University of Turku
+      url: https://www.utu.fi/en/people/sampo-pyysalo
+      photo: /static/images/speakers/sampo_pyysalo.jpg
+      bio:
+- name: Ethics and Society Panel
+  description: 
+  mod: Helen Nissenbaum
+  mod_inst: Cornell University
+  mod_url: https://nissenbaum.tech.cornell.edu/
+  mod_photo: /static/images/speakers/helen-nissenbaum.jpg
+  mod_bio:
+  participants:
+    - name: Emily Black
+      institute: Barnard College
+      url: https://emblack.github.io/
+      photo: /static/images/speakers/emily-black.jpg
+      bio:
+    - name: William Isaac
+      institute: Google DeepMind
+      url: https://wsisaac.com/ 
+      photo: /static/images/speakers/william-isaac.jpg
+      bio:
+    - name: Paul Ohm
+      institute: Georgetown University
+      url: https://www.paulohm.com/
+      photo: /static/images/speakers/paul-ohm.jpg
+      bio:
+    - name: David Widder
+      institute: Cornell University
+      url: https://davidwidder.me/
+      photo: /static/images/speakers/david-widder.jpeg 
+      bio: David Gray Widder (he/him) studies how people creating “Artificial Intelligence” systems think about the downstream harms their systems make possible, and the wider cultural, political, and economic logics which shape these thoughts. He is a Postdoctoral Fellow at the Digital Life Initiative at Cornell Tech, and earned his PhD from the School of Computer Science at Carnegie Mellon University. He has previously conducted research at Intel Labs, Microsoft Research, and NASA’s Jet Propulsion Laboratory. His recent research has been published in FAccT, CHI, CSCW, and Big Data & Society. His scholarly and activist work has appeared in Motherboard, the New York Times, MIT Technology Review, Axios, the Associated Press, Wired, and Fortune. David was born in Tillamook, Oregon, and raised in Berlin and Singapore. He maintains a conceptual-realist artistic practice, advocates against police terror and pervasive surveillance, and enjoys distance running. 
