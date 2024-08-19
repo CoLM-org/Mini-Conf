@@ -7,7 +7,7 @@
   mod_bio:
   participants:
     - name: Sunipa Dev 
-      institute: Google DeepMind
+      institute: Google Research
       url: https://sunipa.github.io/
       photo: /static/images/speakers/sunipa-dev.jpg
       bio:
