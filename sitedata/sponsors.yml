@@ -1,5 +1,5 @@
 sponsors:
-- tier: Diamond
+- tier: Platinum
   size: 4
   height: 250
   vals:
@@ -7,6 +7,14 @@ sponsors:
       img_url: 
       url: 
       img_src: static/images/googledeepmind.svg
+    - name: Amazon
+      img_url: 
+      url: https://www.amazon.science/
+      img_src: static/images/sponsors/amazon.svg
+    - name: Turing
+      img_url: 
+      url: 
+      img_src: static/images/sponsors/Turing.svg
     - name: University of Washington
       img_url: 
       url: 
@@ -28,12 +36,12 @@ sponsors:
     - name: Cisco
       img_url: 
       url: https://www.cisco.com/site/us/en/solutions/artificial-intelligence/index.html
-      img_src: static/images/cisco.svg
+      img_src: static/images/sponsors/cisco.svg
       size: 200px
     - name: Bloomberg
       img_url: 
       url: https://www.bloomberg.com/company/
-      img_src: static/images/bloomberg.svg
+      img_src: static/images/sponsors/BBGEng.png
       size: 250px
     - name: Megagon Labs
       img_url: 
@@ -43,18 +51,24 @@ sponsors:
     - name: Emergence
       img_url: 
       url: https://www.merlyn.org/
-      img_src: static/images/emergence.svg
+      img_src: static/images/sponsors/emergence.svg
       size: 300px
     - name: Kensho
       img_url: 
       url: https://kensho.com/
-      img_src: static/images/kensho.png
+      img_src: static/images/sponsors/Kensho-logo_black.svg
       size: 250px
     - name: DE Shaw
       img_url: 
       url: https://www.deshaw.com/
-      img_src: static/images/DESCO.svg
+      img_src: static/images/sponsors/DESCO.svg
       size: 250px
+    - name: MBZUAI
+      img_url: 
+      url: https://mbzuai.ac.ae/
+      img_src: static/images/sponsors/mbzuai.svg
+      size: 250px
+      style: "padding: 0.1cm; background-color: #333333"
 
 - tier: Silver
   size: 3
@@ -62,8 +76,13 @@ sponsors:
   vals:
     - name: Samaya AI
       img_url: 
-      img_src: static/images/samaya.svg
+      img_src: static/images/sponsors/samaya.svg
       url: https://samaya.ai/
+      size: 250px
+    - name: Cerebras
+      img_url: 
+      img_src: static/images/sponsors/cerebras.svg
+      url: https://www.cerebras.net/
       size: 250px
 - tier: Bronze 
   size: 3
@@ -73,10 +92,14 @@ sponsors:
       url: https://www.generalcatalyst.com/
       img_src: static/images/gc.png
       size: 80%
+    - name: Tola Capital
+      size: 
+      url: https://tolacapital.com/
+      img_src: static/images/sponsors/tola.svg 
     - name: Cohere
       size: 
       url: https://cohere.com/
-      img_src: static/images/cohere.svg 
+      img_src: static/images/sponsors/cohere.svg 
     - name: Amplify
       size: 
       url: https://www.amplifypartners.com/
