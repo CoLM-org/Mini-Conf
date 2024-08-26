@@ -27,7 +27,7 @@
   mod_inst: Cornell University
   mod_url: https://nissenbaum.tech.cornell.edu/
   mod_photo: /static/images/speakers/helen-nissenbaum.jpg
-  mod_bio:
+  mod_bio: "Helen Nissenbaum is the Andrew H. and Ann R. Tisch Professor of Information Science and the founding director of the Digital Life Initiative at Cornell Tech. Her research spans issues of bias, trust, security, autonomy, and accountability in digital systems, and, most notably, privacy as contextual integrity. Professor Nissenbaum's publications include the books Obfuscation: A User's Guide for Privacy and Protest, with Finn Brunton (MIT Press, 2015), Values at Play in Digital Games, with Mary Flanagan (MIT Press, 2014), and Privacy in Context: Technology, Policy, and the Integrity of Social Life (Stanford, 2010). These, along with numerous research articles, have been translated into seven languages, including Polish, Chinese, and Portuguese. She received the 2014 Barwise Prize from the American Philosophical Association and the IACAP Covey Award for computing, ethics, and philosophy. Professor Nissenbaum has also contributed to privacy-enhancing free software -- TrackMeNot (designed to prevent the profiling of web search histories) and  AdNauseam (designed to counter profiling based on ad clicks). She holds a Ph.D. in philosophy from Stanford University and a B.A. (Hons) in Philosophy and Mathematics from the University of the Witwatersrand, South Africa."
   participants:
     - name: Emily Black
       institute: Barnard College
