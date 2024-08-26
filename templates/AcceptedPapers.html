@@ -12,13 +12,13 @@
 
 <br />
 
-<strong>This is a temporary list, just to get the information out (and get you excited about COLM 😁). We are aware of some lingering issues in author ordering. This will be fixed in the final release of the list accepted papers, after the camera ready deadline. Please don't use this information for citation purposes.</strong>
+<strong>All accepted papers are hosted on OpenReview, and listed <a href="https://openreview.net/group?id=colmweb.org/COLM/2024/Conference#tab-accept">here</a>. OpenReview also provides bibtex entries for each paper.</strong>
 
 <br />
 <br />
 
 {% for paper in AcceptedPapers %}
-<p>{{paper.title}} <br/> <em>{{paper.authors}}</em></p>
+<p><a href="{{paper.url}}">{{paper.title}}</a> <br/> <em>{{paper.authors}}</em></p>
  
 {% endfor %}
 
