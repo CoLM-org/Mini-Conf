@@ -319,7 +319,7 @@
 - authors: Laida Kushnareva, Tatiana Gaintseva, Dmitry Abulkhanov, Kristian Kuznetsov,
     German Magai, Eduard Tulchinskii, Serguei Barannikov, Sergey Nikolenko, Irina
     Piontkovskaya
-  title: Boundary detection in mixed AI-human texts
+  title: AI-generated text boundary detection with RoFT
   url: https://openreview.net/forum?id=kzzwTrt04Z
 - authors: Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Kuai Li,
     Chen Chen, TAO YANG, Maosong Sun
@@ -459,7 +459,7 @@
   title: 'Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge
     Graph'
   url: https://openreview.net/forum?id=dWYRjT501w
-- authors: zihan yao, Yu He, Tianyu Qi, Ming Li
+- authors: Zihan Yao, Yu He, Tianyu Qi, Ming Li
   title: Scalable Model Editing via Customized Expert Networks
   url: https://openreview.net/forum?id=dJfBejh478
 - authors: Abhika Mishra, Akari Asai, Vidhisha Balachandran, Yizhong Wang, Graham
