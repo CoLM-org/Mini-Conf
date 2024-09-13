@@ -69,6 +69,12 @@ sponsors:
       img_src: static/images/sponsors/mbzuai.svg
       size: 250px
       style: "padding: 0.1cm; background-color: #333333"
+    - name: ByteDance
+      img_url:
+      url: https://www.bytedance.com/en/
+      img_src: static/images/sponsors/ByteDance.svg
+      size: 250px
+      style: "padding: 0.2cm; background-color: #333333"
 
 - tier: Silver
   size: 3
