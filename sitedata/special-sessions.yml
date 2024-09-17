@@ -10,7 +10,7 @@
       institute: Google Research
       url: https://sunipa.github.io/
       photo: /static/images/speakers/sunipa-dev.jpg
-      bio:
+      bio: "Sunipa Dev is a Senior Research Scientist at Google Research, working at the intersection of language, society, and technology. Previously, she was an NSF Computing Innovation Fellow at UCLA, before which she completed her PhD from the University of Utah. Her research strives to ground evaluations of generative AI, especially language technologies in real world experiences of people, and foster inclusion of diverse, cross-cultural, and marginalized perspectives into AI pipelines. Her work has been awarded with an Outstanding Paper award ACL 2023, the NSF CI Fellows Award and DAAD AINet Award 2021, and she has been named one of 100 Brilliant Women in AI Ethics in 2022. She is also an advisor for the Widening NLP at *CL conferences which argues the importance of diversity and inclusion in NLP for better technologies of the future."
     - name: Hwaran Lee
       institute: NAVER
       url: https://hwaranlee.github.io/
@@ -38,7 +38,7 @@
       institute: Google DeepMind
       url: https://wsisaac.com/ 
       photo: /static/images/speakers/william-isaac.jpg
-      bio:
+      bio: "William Isaac is a Staff Research Scientist on DeepMind's Ethics and Society Team and Research Affiliate at Oxford University Centre's for the Governance of AI. His research focuses on fairness and governance of AI systems. Prior to DeepMind, he served as an Open Society Foundations Fellow and Research Advisor for the Human Rights Data Analysis Group. His research has been featured in publications such as Science, New York Times, and the Wall Street Journal."
     - name: Paul Ohm
       institute: Georgetown University
       url: https://www.paulohm.com/
