@@ -22,7 +22,7 @@
       photo: /static/images/speakers/sampo_pyysalo.jpg
       bio: "Sampo Pyysalo is a researcher in the TurkuNLP group (https://turkunlp.org/) and Research Fellow at the Department of Computing, University of Turku. His work focuses on machine learning for natural language processing, with particular application domains including scientific text mining, Finnish language technology, and large language models. After defending his PhD thesis in computer science at the University of Turku, he held researcher positions at the University of Tokyo, University of Manchester and University of Cambridge before returning to the University of Turku in 2019."
 - name: Ethics and Society Panel
-  description: 
+  description: "This panel addresses ethical and societal perspectives on language models. The panelists, who bring extensive expertise and experience in the area, will highlight specific issues of interest and concern. Their remarks will form the springboard for wide-ranging discussion among them and with the audience on topics of accountability, governance, safety, privacy, and more." 
   mod: Helen Nissenbaum
   mod_inst: Cornell University
   mod_url: https://nissenbaum.tech.cornell.edu/
