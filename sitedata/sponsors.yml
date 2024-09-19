@@ -18,16 +18,17 @@ sponsors:
     - name: University of Washington
       img_url:
       url: https://www.cs.washington.edu/
-      img_src: static/images/uw.jpg
+      img_src: static/images/sponsors/UW.svg
       size: 200px
     - name: University of Pennsylvania
       img_url:
       url: https://www.seas.upenn.edu/
-      img_src: static/images/upenn.png
+      img_src: static/images/sponsors/upenn.svg
+      size: 200px
     - name: AI2
       img_url:
       url: https://allenai.org/
-      img_src: static/images/AI2.png
+      img_src: static/images/sponsors/AI2.svg
       size: 150px
 - tier: Gold
   size: 3
@@ -41,13 +42,13 @@ sponsors:
     - name: Bloomberg
       img_url:
       url: https://www.bloomberg.com/company/
-      img_src: static/images/sponsors/BBGEng.png
+      img_src: static/images/sponsors/bloomberg.svg
       size: 250px
     - name: Megagon Labs
       img_url:
-      url:
-      img_src: static/images/megagon.png
-      size: 150px
+      url: https://megagon.ai/
+      img_src: static/images/sponsors/Megagon.svg
+      size: 250px
     - name: Emergence
       img_url:
       url: https://www.merlyn.org/
@@ -96,8 +97,8 @@ sponsors:
   vals:
     - name: General Catalyst
       url: https://www.generalcatalyst.com/
-      img_src: static/images/gc.png
-      size: 80%
+      img_src: static/images/sponsors/gc.svg
+      size: 100%
     - name: Tola Capital
       size:
       url: https://tolacapital.com/
@@ -109,5 +110,10 @@ sponsors:
     - name: Amplify
       size:
       url: https://www.amplifypartners.com/
-      img_src: static/images/amplify.webp
+      img_src: static/images/sponsors/amplify.svg
+      size: 80%
+    - name: Citadel
+      size:
+      url: https://www.citadel.com/
+      img_src: static/images/sponsors/Citadel.svg
       size: 80%
