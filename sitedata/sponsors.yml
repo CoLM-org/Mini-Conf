@@ -28,7 +28,7 @@ sponsors:
     - name: AI2
       img_url:
       url: https://allenai.org/
-      img_src: static/images/sponsors/AI2.svg
+      img_src: static/images/sponsors/ai2.svg
       size: 150px
 - tier: Gold
   size: 3
