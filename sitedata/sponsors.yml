@@ -76,6 +76,12 @@ sponsors:
       img_src: static/images/sponsors/ByteDance.svg
       size: 250px
       style: "padding: 0.2cm; background-color: #333333"
+    - name: Futurewei
+      img_url:
+      url: https://www.futurewei.com/
+      img_src: static/images/sponsors/Futurewei.svg
+      size: 250px
+      style:
 
 - tier: Silver
   size: 3
@@ -91,6 +97,12 @@ sponsors:
       img_src: static/images/sponsors/cerebras.svg
       url: https://www.cerebras.net/
       size: 250px
+    - name: Exa
+      img_url:
+      img_src: static/images/sponsors/exa.svg
+      url: https://exa.ai/
+      size: 250px
+      style: "padding: 0.2cm; background-color: #1f40ed"
 - tier: Bronze
   size: 3
   height: 150
