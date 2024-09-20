@@ -75,7 +75,7 @@ sponsors:
       url: https://www.bytedance.com/en/
       img_src: static/images/sponsors/ByteDance.svg
       size: 250px
-      style: "padding: 0.2cm; background-color: #333333"
+      style:
     - name: Futurewei
       img_url:
       url: https://www.futurewei.com/
