@@ -1,10 +1,10 @@
 - name: Multilinguality and LLMs
-  description: 
+  description: "A vast majority of research on large language models focus on a handful of major languages such as English, Chinese, and German. Recent LLMs are capable of understanding and generating many more languages, but their performance drops dramatically for medium- and low-resource languages. We discuss why it is important to improve multilingual LLMs, how to measure progress, and what the major research challenges are."
   mod: Alice Oh
   mod_inst: KAIST
   mod_url: https://aliceoh9.github.io/
   mod_photo: static/images/alice.jpg
-  mod_bio:
+  mod_bio: "Alice Oh is a Professor in the School of Computing at KAIST. She received her MS in 2000 from Carnegie Mellon University and PhD in 2008 from MIT. Her major research area is at the intersection of natural language processing (NLP) and computational social science. She collaborates with social scientists to study topics such as political science, education, and history, developing NLP models for various textual data including legislative bills, historical documents, news articles, social media posts, and personal conversations."
   participants:
     - name: Sunipa Dev 
       institute: Google Research
