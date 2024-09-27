@@ -51,7 +51,7 @@ sponsors:
       size: 250px
     - name: Emergence
       img_url:
-      url: https://www.merlyn.org/
+      url: https://www.emergence.ai/
       img_src: static/images/sponsors/emergence.svg
       size: 300px
     - name: Kensho
@@ -128,4 +128,9 @@ sponsors:
       size:
       url: https://www.citadel.com/
       img_src: static/images/sponsors/Citadel.svg
+      size: 80%
+    - name: Qualcomm
+      size:
+      url: https://www.qualcomm.com/
+      img_src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qualcomm-Logo.svg/512px-Qualcomm-Logo.svg.png
       size: 80%
