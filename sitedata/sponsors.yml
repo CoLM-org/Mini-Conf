@@ -67,7 +67,7 @@ sponsors:
     - name: MBZUAI
       img_url:
       url: https://mbzuai.ac.ae/
-      img_src: static/images/sponsors/mbzuai.svg
+      img_src: static/images/sponsors/mbzuai2.svg
       size: 250px
       style: "padding: 0.1cm; background-color: #333333"
     - name: ByteDance
@@ -82,6 +82,12 @@ sponsors:
       img_src: static/images/sponsors/Futurewei.svg
       size: 250px
       style:
+    - name: Exa
+      img_url:
+      img_src: static/images/sponsors/exa.svg
+      url: https://exa.ai/
+      size: 250px
+      style: "padding: 0.2cm; background-color: #1f40ed"
 
 - tier: Silver
   size: 3
@@ -97,12 +103,6 @@ sponsors:
       img_src: static/images/sponsors/cerebras.svg
       url: https://www.cerebras.net/
       size: 250px
-    - name: Exa
-      img_url:
-      img_src: static/images/sponsors/exa.svg
-      url: https://exa.ai/
-      size: 250px
-      style: "padding: 0.2cm; background-color: #1f40ed"
 - tier: Bronze
   size: 3
   height: 150
@@ -134,3 +134,6 @@ sponsors:
       url: https://www.qualcomm.com/
       img_src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qualcomm-Logo.svg/512px-Qualcomm-Logo.svg.png
       size: 80%
+    - name: Gretel
+      url: https://www.gretel.ai/
+      img_src: https://cdn.prod.website-files.com/5ea8b9202fac2ea6211667a4/66ec636bf895360354026d7b_gretel_logo.svg
