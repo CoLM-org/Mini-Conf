@@ -18,7 +18,11 @@
 <br />
 
 {% for paper in AcceptedPapers %}
-<p>{% if paper.oral_spotlight == true %}<span class="badge bg-success">🔦 Spotlight</span>{% endif %} <a href="{{paper.url}}">{{paper.title}}</a> <br/> <em>{{paper.authors}}</em></p>
+{% if paper.outstanding_award == true %}<p><span class="badge bg-warning">🏆 Outstanding Paper Award</span> <a href="{{paper.url}}">{{paper.title}}</a> <br/> <em>{{paper.authors}}</em></p>{% endif %}
+{% endfor %}
+
+{% for paper in AcceptedPapers %}
+{% if paper.outstanding_award is not defined or paper.outstanding_award == false %}<p>{% if paper.oral_spotlight == true %}<span class="badge bg-success">🔦 Spotlight</span>{% endif %} <a href="{{paper.url}}">{{paper.title}}</a> <br/> <em>{{paper.authors}}</em></p>{% endif %}
  
 {% endfor %}
 

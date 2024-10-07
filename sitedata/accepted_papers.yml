@@ -115,6 +115,7 @@
   oral_spotlight: true
   title: 'Dated Data: Tracing Knowledge Cutoffs in Large Language Models'
   url: https://openreview.net/forum?id=wS7PxDjy6m
+  outstanding_award: true
 - authors: Jinman Zhao, Xueyan Zhang
   oral_spotlight: false
   title: Large Language Model is not a (Multilingual) Compositional Relation Reasoner
@@ -181,6 +182,7 @@
   oral_spotlight: true
   title: 'Mamba: Linear-Time Sequence Modeling with Selective State Spaces'
   url: https://openreview.net/forum?id=tEYskw1VY2
+  outstanding_award: true
 - authors: Yixuan Tang, Yi Yang
   oral_spotlight: false
   title: 'MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop
@@ -399,6 +401,7 @@
   oral_spotlight: true
   title: AI-generated text boundary detection with RoFT
   url: https://openreview.net/forum?id=kzzwTrt04Z
+  outstanding_award: true
 - authors: Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Kuai Li,
     Chen Chen, TAO YANG, Maosong Sun
   oral_spotlight: false
@@ -786,6 +789,7 @@
   oral_spotlight: true
   title: Auxiliary task demands mask the capabilities of smaller language models
   url: https://openreview.net/forum?id=U5BUzSn4tD
+  outstanding_award: true
 - authors: Chengsong Huang, Qian Liu, Bill Yuchen Lin, Tianyu Pang, Chao Du, Min Lin
   oral_spotlight: false
   title: 'LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition'
