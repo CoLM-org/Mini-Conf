@@ -69,16 +69,11 @@
 {% block header %}
 {% set navigation_bar = [
 ('index.html', 'Home', []),
-('dates.html', 'Dates', []),
-('#', 'Program', [('Keynotes.html', 'Keynote Speakers'), ('SpecialSessions.html', 'Special Sessions'), ('AcceptedPapers.html', 'Accepted Papers'), ('program-overview.html', 'Program Overview'), ]),
-('cfp.html', 'Call for Papers', []),
-('AreaChairs.html', 'Area Chairs', []),
+('#', 'Calls', [('cfp.html', 'Call for Papers'), ('cfw.html', 'Call for Workshops')]),
 ('#', 'Guides', [('CoC.html', 'Code of Conduct'),
                  ('CoE.html', 'Code of Ethics'),
                  ('ReviewGuide.html', 'Review Guidelines'),
                  ('AuthorGuide.html', 'Author Guide')]),
-('sponsors.html', 'Sponsors', []),
-('faq.html', 'FAQ', []),
 ] -%}
 
 <nav
@@ -114,7 +109,7 @@
             <ul class="navbar-nav ml-auto">
               {% for url, name, group in navigation_bar %}
                 <li class="nav-item dropdown  {% if id == active_page %}active{% endif %}">
-                    <a class="nav-link {%if group|length > 0%}dropdown-toggle{% endif %}" href="{{url}}" 
+                    <a class="nav-link {%if group|length > 0%}dropdown-toggle{% endif %}" href="{{url}}"
                       {%if group|length > 0%}
                       id="navbarDropdown{{loop.index}}" role="button" data-toggle="dropdown"
                       {% endif %}

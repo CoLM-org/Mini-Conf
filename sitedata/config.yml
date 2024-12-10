@@ -1,8 +1,8 @@
 name: CoLM
 tagline: CONFERENCE ON <br> LANGUAGE <br> MODELING
-date: October 7-9, 2024
-citation_date: May 2024
-proceedings_title: Proceedings of the First COLM Conference
+date: October 7-10, 2025
+citation_date: May 2025
+proceedings_title: Proceedings of the Second COLM Conference
 analytics: UA-
 logo:
   image: static/images/logo.png
@@ -11,11 +11,10 @@ logo:
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
 page_title:
-  prefix: 'COLM 2024'
-  separator: ': '
-background_image: static/images/upenn.jpeg
+  prefix: "COLM 2025"
+  separator: ": "
+background_image: static/images/montreal.jpeg
 organization: COLM Organization Committee
-
 
 # Configuration for auth
 #Test user
@@ -23,12 +22,12 @@ organization: COLM Organization Committee
 #pass: mIniconf1_
 
 use_auth0:
-auth0_client_id : JIdr6wi0z27LyLgwkJF0fpk700aj7MNH
-auth0_domain : miniconf.auth0.com
+auth0_client_id: JIdr6wi0z27LyLgwkJF0fpk700aj7MNH
+auth0_domain: miniconf.auth0.com
 
 calendar:
   colors: #  Colors for the different event hashtags:
-    ---: '#bed972'
-    qa: '#4FCAEB'
-    talk: '#ccc'
-  sunday_saturday: false  #  Include Sunday and Saturday
+    ---: "#bed972"
+    qa: "#4FCAEB"
+    talk: "#ccc"
+  sunday_saturday: false #  Include Sunday and Saturday
