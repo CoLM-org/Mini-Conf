@@ -13,7 +13,7 @@ logo:
 page_title:
   prefix: "COLM 2025"
   separator: ": "
-background_image: static/images/montreal.jpeg
+background_image: static/images/montreal.jpg
 organization: COLM Organization Committee
 
 # Configuration for auth

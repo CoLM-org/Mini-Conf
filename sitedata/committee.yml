@@ -15,19 +15,19 @@ committee:
     name: Aditi Raghunathan
     aff: CMU
     im: static/images/aditi.jpeg
-    tw: aditi_raghunathan
+    tw:
     ws: https://www.cs.cmu.edu/~aditirag/
   - role: Program Chair
     name: Ranjay Krishna
     aff: UW
     im: static/images/Ranjay.jpeg
-    tw: RanjayKrishna
+    tw:
     ws: https://ranjaykrishna.com/
   - role: Program Chair
     name: Eunsol Choi
     aff: NYU
     im: static/images/Eunsol.jpeg
-    tw: eunsol0
+    tw: eunsolc
     ws: https://eunsol.github.io/
   - role: Local Chair
     name: Siva Reddy
@@ -41,6 +41,56 @@ committee:
     im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
     tw: srush_nlp
     ws: https://rush-nlp.com/
+
+board:
+  - role: Board Member
+    name: Yejin Choi
+    aff: University of Washington, NVIDIA
+    im: static/images/Yejin.jpg
+    tw: YejinChoinka
+    ws: https://homes.cs.washington.edu/~yejin/
+  - role: Board Member
+    name: Denny Zhou
+    aff: Google DeepMind
+    im: static/images/Denny.jpg
+    tw: denny_zhou
+    ws: https://dennyzhou.github.io/
+  - role: Board Member
+    name: Danqi Chen
+    aff: Princeton
+    im: static/images/danqi.jpg
+    tw: danqi_chen
+    ws: https://www.cs.princeton.edu/~danqic/
+  - role: Board Member
+    name: Angela Fan
+    aff: Meta
+    im: static/images/angela.jpg
+    tw:
+    ws: https://ai.meta.com/people/angela-fan/
+  - role: Board Member
+    name: Alice Oh
+    aff: KAIST
+    im: static/images/alice.jpg
+    tw: aliceoh
+    ws: https://aliceoh9.github.io/
+  - role: Board Member
+    name: Yoav Artzi
+    aff: Cornell Tech, ASAPP
+    im: static/images/Yoav.jpg
+    tw: yoavartzi
+    ws: https://yoavartzi.com/
+  - role: Board Member
+    name: Alexander Rush
+    aff: Cornell Tech, Hugging Face
+    im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
+    tw: srush_nlp
+    ws: https://rush-nlp.com/
+  - role: Board Member
+    name: Dipanjan Das
+    aff: Google DeepMind
+    im: static/images/Dipanjan.jpeg
+    tw: dipanjand
+    ws: https://www.dipanjandas.com/
 
   # - role: DEI Chair
   #   name: Alice Oh

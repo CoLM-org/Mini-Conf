@@ -196,17 +196,34 @@ def chat():
     data = _data()
     return render_template("chat.html", **data)
 
+
 @app.route("/cfp.html")
 def cfp():
     data = _data()
     data["cfp"] = open("cfp.md").read()
     return render_template("cfp.html", **data)
 
+
+@app.route("/cfw.html")
+def cfw():
+    data = _data()
+    data["cfw"] = open("cfw.md").read()
+    return render_template("cfw.html", **data)
+
+
+@app.route("/board.html")
+def board():
+    data = _data()
+    data["board"] = site_data["committee"]["board"]
+    return render_template("board.html", **data)
+
+
 @app.route("/program-overview.html")
 def program_overview():
     data = _data()
     data["program_overview"] = open("program-overview.md").read()
     return render_template("program-overview.html", **data)
+
 
 @app.route("/dates.html")
 def dates():
@@ -221,11 +238,13 @@ def coe():
     data["CoE"] = open("CoE.md").read()
     return render_template("CoE.html", **data)
 
+
 @app.route("/sponsors.html")
 def sponsors():
     data = _data()
     data["sponsors"] = site_data["sponsors"]["sponsors"]
     return render_template("sponsors.html", **data)
+
 
 @app.route("/ReviewGuide.html")
 def reviewguide():
@@ -233,11 +252,13 @@ def reviewguide():
     data["ReviewGuide"] = open("ReviewGuide.md").read()
     return render_template("ReviewGuide.html", **data)
 
+
 @app.route("/AuthorGuide.html")
 def authorguide():
     data = _data()
     data["AuthorGuide"] = open("AuthorGuide.md").read()
     return render_template("AuthorGuide.html", **data)
+
 
 @app.route("/AreaChairs.html")
 def areachairs():
@@ -252,17 +273,20 @@ def coc():
     data["CoC"] = open("CoC.md").read()
     return render_template("CoC.html", **data)
 
+
 @app.route("/Keynotes.html")
 def keynotes():
     data = _data()
     data["Keynotes"] = site_data["speakers"]
     return render_template("Keynotes.html", **data)
 
+
 @app.route("/SpecialSessions.html")
 def special_sessions():
     data = _data()
     data["special_sessions"] = site_data["special-sessions"]
     return render_template("SpecialSessions.html", **data)
+
 
 @app.route("/AcceptedPapers.html")
 def accepted_papers():
@@ -276,11 +300,13 @@ def survey():
     data = _data()
     return render_template("survey.html", **data)
 
+
 @app.route("/faq.html")
 def faq():
     data = _data()
     data["FAQ"] = site_data["faq"]["FAQ"]
     return render_template("faq.html", **data)
+
 
 # FRONT END SERVING
 
