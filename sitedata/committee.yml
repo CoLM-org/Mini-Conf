@@ -29,6 +29,18 @@ committee:
     im: static/images/Eunsol.jpeg
     tw: eunsolc
     ws: https://eunsol.github.io/
+  - role: Workshop Chair
+    name: Colin Raffel
+    aff: University of Toronto
+    im: static/images/Colin.jpg
+    tw:
+    ws: https://colinraffel.com/
+  - role: Workshop Chair
+    name: Adina Williams
+    aff: META FAIR
+    im: static/images/Adina.jpg
+    tw:
+    ws: https://ai.meta.com/people/1396973444287406/adina-williams/
   - role: Local Chair
     name: Siva Reddy
     aff: McGill-MILA / ServiceNow
