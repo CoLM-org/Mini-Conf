@@ -252,6 +252,11 @@ def reviewguide():
     data["ReviewGuide"] = open("ReviewGuide.md").read()
     return render_template("ReviewGuide.html", **data)
 
+@app.route("/coi-policy.html")
+def coi_policy():
+    data = _data()
+    data["coiPolicy"] = open("coi-policy.md").read()
+    return render_template("coi-policy.html", **data)
 
 @app.route("/AuthorGuide.html")
 def authorguide():
