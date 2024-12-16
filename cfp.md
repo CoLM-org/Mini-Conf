@@ -4,7 +4,7 @@ We invite submissions to the 2nd Conference on Language Modeling (COLM).
 
 ---
 
-Submission link: to be posted on [https://colmweb.org/](https://colmweb.org/) 
+Submission link: [https://openreview.net/group?id=colmweb.org/COLM/2025/Conference](https://openreview.net/group?id=colmweb.org/COLM/2025/Conference) 
 
 Questions can be directed to: colm-pcs@googlegroups.com
 
