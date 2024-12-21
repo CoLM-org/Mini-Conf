@@ -86,3 +86,5 @@ To prepare your submission to COLM 2024, please use the LaTeX style files provid
 **Code of Ethics.** All participants of COLM, including the submission and reviewing process, must abide by COLM’s code of ethics ([https://colmweb.org/CoE.html](https://colmweb.org/CoE.html)).
 
 **Reviewing Guidelines.** Reviewers and area chairs will be asked to follow the COLM reviewing guidelines ([https://colmweb.org/ReviewGuide.html](https://colmweb.org/ReviewGuide.html)).  
+
+**OpenReview User Moderation Policy.** New profiles created without an institutional email will go through a moderation process that can take up to two weeks. New profiles created with an institutional email will be activated automatically.
