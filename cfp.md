@@ -81,6 +81,8 @@ To prepare your submission to COLM 2024, please use the LaTeX style files provid
 
 **Author Guidelines.** Authors are expected to follow the COLM Author Guide ([https://colmweb.org/AuthorGuide.html](https://colmweb.org/AuthorGuide.html)). 
 
+**AC Guidelines.** Authors are expected to follow the COLM Author Guide ([https://colmweb.org/ac-guidelines.html](https://colmweb.org/ac-guidelines.html)). 
+
 **Code of Conduct.** All COLM participants, including authors, are required to adhere to the COLM code of conduct ([https://colmweb.org/CoC.html](https://colmweb.org/CoC.html)). More detailed guidance for authors, reviewers, and all other participants will be made available in due course, and participation will require acknowledging and adhering to the provided guidelines.
 
 **Code of Ethics.** All participants of COLM, including the submission and reviewing process, must abide by COLM’s code of ethics ([https://colmweb.org/CoE.html](https://colmweb.org/CoE.html)).

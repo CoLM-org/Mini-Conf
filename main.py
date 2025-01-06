@@ -264,6 +264,12 @@ def authorguide():
     data["AuthorGuide"] = open("AuthorGuide.md").read()
     return render_template("AuthorGuide.html", **data)
 
+@app.route("/ac-guidelines.html")
+def ac_guidelines():
+    data = _data()
+    data["acGuidelines"] = open("ac-guidelines.md").read()
+    return render_template("ac-guidelines.html", **data)
+
 
 @app.route("/AreaChairs.html")
 def areachairs():
