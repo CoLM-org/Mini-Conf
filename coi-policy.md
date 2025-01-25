@@ -4,7 +4,7 @@ Anyone who plans to submit a paper as an author or a co-author, as well as revie
 
 #### Domain conflicts (entered in Education & Career History)
 
-Please ensure that this section accurately represents your domain conflicts for (at least) the last three years. For current or recent collaborations, including internships, you should generally use personal conflicts (recorded in the Advisors & Other Relations section). Please use domain conflicts judiciously, reserving them for cases when you have a genuine conflict of interest with the institution. Your Education & Career History is public on your OpenReview profile.
+Please ensure that this section accurately represents your domain conflicts for (at least) the last three years. For current or recent collaborations, including internships, you should generally use personal conflicts (recorded in the Advisors & Other Relations section). **Please use domain conflicts judiciously, reserving them for cases when you have a genuine conflict of interest with the institution**. Your Education & Career History is public on your OpenReview profile.
 
 When you enter a domain conflict, none of your submissions will be visible to reviewers, area chairs, or senior area chairs who have also entered this domain conflict. Only the last three years of your and their Education & Career History will be used.
 

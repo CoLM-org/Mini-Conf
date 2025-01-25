@@ -1,13 +1,14 @@
 
 Thank you for agreeing to serve on the program committee of COLM 2025! As an area chair (AC), your job is to ensure that all the submissions you are assigned have high quality reviews and good discussions. You should become familiar with the technical contents of all your submissions and are responsible for making the initial acceptance decisions.
 
-If you encounter a situation that you are unable to resolve on your own:
-- If it is an issue involving OpenReview, please contact info@openreview.net.
-- Otherwise, please contact the program chairs at [colm-pcs@googlegroups.com](mailto:colm-pcs@googlegroups.com).
+If you encounter a situation that you are unable to resolve on your own:  
+
+* If it is an issue involving OpenReview, please contact [info@openreview.net](info@openreview.net).  
+* Otherwise, please contact the program chairs at [colm-pcs@googlegroups.com](mailto:colm-pcs@googlegroups.com).
 
 Please consult the [**important dates**](/dates) page for the expected timeline for the tasks below. We will communicate each task as the process progresses. 
 
-## Main Tasks
+#### Main Tasks
 1. Preparation:
     - Please ensure that your preferred email address is accurate in your OpenReview profile. We will send most emails from OpenReview (noreply@openreview.net). Such emails are sometimes accidentally marked as spam (and sometimes as updates in Gmail). Please check your spam folder regularly. If you find such an email in there, please whitelist the OpenReview email address so that you will receive future emails from OpenReview.
     - Please log into OpenReview and make sure that your profile is up to date.
@@ -34,3 +35,6 @@ Please consult the [**important dates**](/dates) page for the expected timeline 
     - Write a meta-review that explains your decision to the authors. Your comments should augment the reviews, and explain how the reviews, author response, and discussion were used to arrive at your decision. You may dismiss or ignore a review if it is clearly of low quality. If the reviewers cannot come to a consensus, you should read the paper carefully and write a detailed meta-review. 
 1. Discuss accept/reject decisions with PCs
     - Discuss with the PCs your accept/reject recommendations, especially the borderline cases as well as ones where you are making a recommendation that goes against the reviewers. 
+
+
+**This document was adapted from the [NeurIPS 2024 AC Guidelines](https://neurips.cc/Conferences/2024/AC-Guidelines). We thank the authors.**
