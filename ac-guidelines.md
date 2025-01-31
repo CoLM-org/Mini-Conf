@@ -30,7 +30,7 @@ Please consult the [**important dates**](/dates) page for the expected timeline 
     - As soon as the author response is entered in the system, initiate and lead a discussion via OpenReview for each submission, and make sure the reviewers engage in the discussion phase.
     - Monitor and moderate the discussion to ensure that it is respectful of everyone’s opinion. Read the submissions in your stack to steer the discussion towards the most critical aspects that need discussion.
     - Make sure your reviewers read and respond to all author responses. To minimize the chance of misunderstandings during the reviewing process, you can also initiate a rolling discussion with the authors after initial reviews and author responses are submitted. You can restrict visibility of your comment to any set of readers (authors, reviewers, senior area chair, or program chairs) as appropriate.
-1. Writing the metareviews: by Friday, Aug 30
+1. Writing the metareviews: 
     - This is considered the last phase of the discussions, and you will be writing the metareviews. You can elicit further comments and clarifications from the reviewers. Please help us by being on time with your metareviews, as we have only a couple of weeks before the notifications are sent to the authors. 
     - Write a meta-review that explains your decision to the authors. Your comments should augment the reviews, and explain how the reviews, author response, and discussion were used to arrive at your decision. You may dismiss or ignore a review if it is clearly of low quality. If the reviewers cannot come to a consensus, you should read the paper carefully and write a detailed meta-review. 
 1. Discuss accept/reject decisions with PCs
